@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Bruno Leonel!
 
-<!--
-**brunoleonelrs/brunoleonelrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje no momento estou buscando uma colocação no mercado
+- 🌱 No momento estou estudando ADS, e aprendendo HTML CSS - Futuro Front-End
+- 📫 Contate-me no e-mail: brunoleonelw@hotmail.com
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/brunoleonelrs">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=brunoleonelrs&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoleonelrs&layout=compact&langs_count=7&theme=Dark"/>
+</div>
