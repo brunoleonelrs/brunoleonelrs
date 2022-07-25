@@ -4,7 +4,6 @@
 </div>
  <div align="center">
  </div>
-##
 <div align="center">
  <p>Se quiser conhecer minhas redes sociais, estão aqui em baixo, basta apertar nelas...</p>
 </div>
