@@ -3,10 +3,6 @@
 <h2><em>Olá, meu nome é Bruno Leonel!</em></h2>
 </div>
  <div align="center">
- 🔭 Hoje no momento estou buscando uma colocação no mercado <br>
- 🌱 No momento estou estudando ADS, e aprendendo HTML CSS - Futuro Front-End <br>
- 📫 Contate-me no e-mail: brunoleonelw@hotmail.com <br>
- 😄 Pronomes: ele/dele
  </div>
 ##
 <div align="center">
